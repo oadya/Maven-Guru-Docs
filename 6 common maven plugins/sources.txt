@@ -1,0 +1,39 @@
+Maven clean plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/clean
+
+
+Maven compliler plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/clean
+
+
+Maven resources plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/clean
+
+Maven surefire plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/pojotest
+
+Maven jar plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/jar
+
+
+Maven deploy plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/jar
+
+Maven site plugin
+-----------------
+https://github.com/springframeworkguru/helloworld/tree/site
+
+
+https://github.com/springframeworkguru/helloworld/tree/gitignore
+
+
+
+
+
+

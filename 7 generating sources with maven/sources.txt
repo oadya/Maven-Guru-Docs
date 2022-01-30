@@ -1,0 +1,16 @@
+XDS to java
+-----------
+https://github.com/springframeworkguru/mb2g-jaxb
+
+Generate java from json
+-----------------------
+https://github.com/springframeworkguru/mb2g-json-schema
+
+Lombok
+-----------------------
+https://github.com/springframeworkguru/mb2g-lombok
+
+
+Mapstruct
+-----------------------
+https://github.com/springframeworkguru/mb2g-mapstruct

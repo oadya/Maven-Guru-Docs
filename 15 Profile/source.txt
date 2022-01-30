@@ -1,0 +1,9 @@
+Nexus profile & packagecloud profile
+------------------------------------- 
+https://github.com/springframeworkguru/mb2g-testing/tree/package-cloud-profile
+
+https://github.com/springframeworkguru/mb2g-testing/tree/pkgcld-nexu-build-profile
+
+setting properties in profiles
+-----------------------------
+https://github.com/springframeworkguru/mb2g-testing/tree/mvn-test-props

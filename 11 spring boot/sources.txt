@@ -1,0 +1,11 @@
+https://github.com/springframeworkguru/mb2g-spring-boot
+
+https://github.com/springframeworkguru/mb2g-spring-boot/tree/sb-it-tests
+
+https://github.com/springframeworkguru/mb2g-spring-boot/tree/build-info
+
+https://github.com/springframeworkguru/mb2g-spring-boot/tree/git-info
+
+https://github.com/springframeworkguru/mb2g-spring-boot/tree/mm-spring-boot
+
+https://github.com/springframeworkguru/mb2g-spring-boot-mm

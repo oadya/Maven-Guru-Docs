@@ -1,0 +1,16 @@
+https://github.com/springframeworkguru/mb2g-mm-maven
+
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/from-intellij
+
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/web-app
+
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/converters
+
+
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/flatten-plugin
+
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/enforcer-plugin
+
+https://github.com/springframeworkguru/mb2g-mm-maven-fixme
+
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/bom
